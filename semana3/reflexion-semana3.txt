@@ -1,1 +1,9 @@
-
+Mantener un registro de cambios con Git es vital en el desarrollo de software
+porque nos otorga un historial completo y detallado de la evolución del proyecto.
+Si un error crítico aparece tras una actualización, podemos identificar rápidamente
+qué archivo lo causó y revertir el código a una versión anterior estable sin
+perder todo el progreso. Además, Git facilita enormemente el trabajo en equipo,
+ya que permite que múltiples desarrolladores programen distintas funcionalidades
+al mismo tiempo sin sobrescribir el trabajo de los demás. Esta trazabilidad
+garantiza que cada modificación quede documentada, aportando seguridad, orden
+y confianza tanto al equipo técnico como a la integridad del producto final.
