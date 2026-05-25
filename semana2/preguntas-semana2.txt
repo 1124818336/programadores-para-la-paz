@@ -1,1 +1,17 @@
+Pregunta 1:
+La respuesta es la B:
+Ejecutar comandos para interactuar con el sistema
 
+
+Pregunta 2:
+La respuesta es la B:
+Muestra la ubicación actual dentro del sistema de carpetas
+
+
+Pregunta 3:
+La respuesta es la C:
+ls
+
+Pregunta 4:
+La respuesta es la B:
+mkdir
