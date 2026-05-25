@@ -1,1 +1,10 @@
-
+El uso responsable de la información y la participación ciudadana en internet son
+pilares fundamentales para construir comunidades digitales seguras y confiables.
+Como ciudadanos digitales y futuros desarrolladores, tenemos la responsabilidad
+de verificar nuestras fuentes y promover una interacción ética en la red.
+Esta misma ética y organización se refleja directamente en nuestro trabajo técnico.
+Al utilizar herramientas de control de versiones como Git, no solo organizamos
+nuestro código, sino que aplicamos principios de transparencia y colaboración.
+Cada "commit" es un registro auditable de nuestras aportaciones al proyecto.
+Así, la trazabilidad que aplicamos para combatir la desinformación en la web
+es la misma que usamos para mantener un historial claro en el desarrollo de software.
