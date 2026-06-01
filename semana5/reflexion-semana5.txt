@@ -1,0 +1,9 @@
+Las APIs son una excelente herramienta para conectar a las comunidades porque permiten que la 
+información fluya rápidamente entre distintas plataformas. Por ejemplo, si una junta comunal
+o un grupo vecinal tiene una base de datos con alertas de su zona, una API permite que esa 
+información se muestre simultáneamente en una página web, en una app de celular o incluso
+mediante un bot de mensajería. Esto evita que los datos se queden aislados y facilita que 
+todos los vecinos estén enterados de lo que pasa en tiempo real. Además, al estandarizar 
+la forma en que se envían y reciben los reportes, se logra organizar mucho mejor la información
+comunitaria, lo que ayuda a tomar decisiones más rápidas, transparentes y efectivas para 
+solucionar los problemas del entorno.

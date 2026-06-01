@@ -1,0 +1,4 @@
+Al probar las rutas en el navegador sucede lo siguiente:
+- En http://localhost:3000 (la ruta raíz), el servidor recibe la petición GET y simplemente muestra en la pantalla el texto "Servidor activo".
+- En http://localhost:3000/saludo, el servidor detecta esta ruta específica y responde imprimiendo "Hola comunidad".
+- En http://localhost:3000/mensaje/juan, el servidor lee el valor dinámico que se pone en la URL ("juan"), lo guarda en una variable usando req.params y luego devuelve ese nombre concatenado con el saludo, mostrando "Hola juan".
