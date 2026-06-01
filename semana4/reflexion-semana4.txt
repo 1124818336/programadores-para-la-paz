@@ -1,0 +1,9 @@
+Las tecnologías abiertas como Node.js son fundamentales para las iniciativas ciudadanas 
+porque brindan independencia y reducen los costos operativos. Cuando una comunidad construye
+sus propias herramientas tecnológicas, no tiene que adaptarse a las limitaciones o cobros 
+de un software comercial, sino que crea soluciones flexibles a la medida de sus 
+problemáticas reales. Además, al usar código abierto, se fomenta la educación y el 
+trabajo en equipo local, permitiendo que los mismos miembros de la comunidad mantengan y 
+actualicen los sistemas con el tiempo. Esto genera una verdadera apropiación tecnológica, 
+donde los ciudadanos pasan de ser simples consumidores de tecnología a ser los creadores 
+activos de su propio desarrollo digital.
