@@ -1,0 +1,5 @@
+1. No exponer datos personales confidenciales de los ciudadanos en rutas públicas.
+2. Cifrar las comunicaciones utilizando certificados SSL/TLS (forzar conexiones HTTPS).
+3. Implementar un sistema de roles para limitar el acceso a información sensible solo a administradores.
+4. Registrar los accesos y las acciones importantes (logs) para rastrear posibles auditorías.
+5. Realizar copias de seguridad (backups) periódicas de la base de datos para prevenir la pérdida de reportes.

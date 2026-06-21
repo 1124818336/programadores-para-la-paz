@@ -1,0 +1,3 @@
+El comando 'uname -a' muestra información detallada del sistema operativo, incluyendo la versión del kernel, la fecha de compilación y la arquitectura del hardware. Por otro lado, el comando 'whoami' muestra el nombre del usuario actual que ha iniciado sesión en la terminal.
+
+Conocer esta información es vital al administrar un servidor porque permite asegurar que los programas que se van a instalar sean compatibles con la arquitectura del sistema, además de auditar qué usuario está realizando cambios para gestionar correctamente los permisos y evitar fallas de seguridad.
