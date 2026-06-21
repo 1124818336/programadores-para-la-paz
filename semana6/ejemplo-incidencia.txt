@@ -1,0 +1,4 @@
+{
+  "tipo": "Falla de conectividad y equipos",
+  "descripcion": "Se reporta que los equipos de la sala principal del Punto Vive Digital no tienen acceso a internet y faltan periféricos en la estación 4."
+}
