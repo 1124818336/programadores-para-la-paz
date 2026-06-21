@@ -1,0 +1,6 @@
+Al hacer una petición GET a la ruta http://localhost:3000/reportes después de haber 
+registrado un dato mediante POST, el servidor responde devolviendo el array completo 
+en formato JSON. En la pantalla (o en Thunder Client) se observa una lista estructurada 
+que contiene los objetos guardados en la memoria temporal del servidor, confirmando que 
+la información fue recibida, asignada con un 'id' autoincrementable y almacenada 
+correctamente en la variable 'reportes'.

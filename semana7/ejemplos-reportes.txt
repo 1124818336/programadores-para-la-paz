@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Seguridad e Inventario",
+  "descripcion": "Auditoría administrativa: Se reporta la ausencia de dos periféricos (teclado y mouse) en la estación número 3 del Punto Vive Digital Plus de Puerto Carreño."
+}
+
+Ejemplo 2:
+{
+  "tipo": "Soporte Técnico",
+  "descripcion": "Falla general de conectividad en la sala principal durante la jornada de la mañana. Los equipos no logran resolver la dirección del servidor DNS."
+}
