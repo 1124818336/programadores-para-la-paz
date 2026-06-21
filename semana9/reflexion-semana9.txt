@@ -1,0 +1,9 @@
+Es fundamental que las plataformas tecnológicas comunitarias funcionen de manera estable y segura 
+para garantizar el acceso continuo a los servicios y mantener la confianza de los ciudadanos. 
+Si un servidor se cae constantemente, la comunidad no podrá registrar incidencias ni consultar 
+información vital cuando más lo necesiten, lo que genera frustración y un eventual abandono de la 
+herramienta. Además, la seguridad es una prioridad indiscutible porque estas plataformas suelen 
+manejar datos sensibles y reportes directos de la población. Un servidor bien configurado, monitoreado 
+y con buenos registros (logs) protege toda esta información contra accesos no autorizados, ataques o 
+pérdidas accidentales. En resumen, la estabilidad técnica asegura que la tecnología cumpla su verdadero 
+propósito de impacto social.
