@@ -1,0 +1,10 @@
+La interfaz de la plataforma comunitaria estará dividida en dos secciones principales. 
+Primero, un formulario claro para crear una iniciativa, el cual pedirá únicamente un título, 
+una descripción del problema y la fecha. Segundo, un panel general o vista de "iniciativas 
+disponibles" representadas en tarjetas (cards). 
+
+Dentro de cada tarjeta, los usuarios podrán leer el resumen de la causa y encontrarán un 
+"botón de apoyo". Al lado de este botón, habrá un contador dinámico que mostrará el 
+número total de apoyos recibidos hasta el momento. Todo el diseño priorizará la claridad 
+y omitirá por completo mostrar quiénes son las personas específicas que han apoyado, 
+protegiendo así la privacidad de los usuarios.

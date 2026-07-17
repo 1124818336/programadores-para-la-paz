@@ -1,0 +1,10 @@
+Una plataforma tecnológica orientada a la participación ciudadana maneja el activo más 
+importante de una comunidad: su confianza y su información. Por esto, contar con una 
+base de datos bien estructurada es vital para almacenar, consultar y gestionar las 
+iniciativas de manera organizada y persistente en el tiempo. La autenticación de 
+usuarios garantiza que cada acción dentro de la plataforma tenga un responsable claro, 
+evitando el spam, los perfiles falsos o la manipulación malintencionada de las herramientas.
+A su vez, la protección rigurosa de la información asegura que los datos sensibles 
+de los ciudadanos no caigan en manos equivocadas ni sean usados para fines distintos 
+al bien común. En conjunto, estos tres elementos construyen un entorno digital seguro y 
+transparente donde las personas pueden participar libremente.

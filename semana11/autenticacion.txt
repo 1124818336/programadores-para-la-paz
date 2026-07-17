@@ -1,0 +1,8 @@
+El login es el mecanismo de seguridad principal de una aplicación, ya que permite 
+identificar de forma única a un usuario antes de otorgarle acceso a ciertas funciones. 
+Es fundamental que algunas rutas estén protegidas porque pueden dar acceso a paneles de 
+administración, registros internos o acciones (como borrar datos) que no deben estar 
+disponibles para visitantes anónimos. Finalmente, por responsabilidad y normativas de 
+seguridad, nunca se debe exponer públicamente información sensible como contraseñas, 
+documentos de identidad, teléfonos personales, direcciones, tokens o claves de API que 
+comprometan a la comunidad.

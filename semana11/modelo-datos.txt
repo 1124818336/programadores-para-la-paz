@@ -1,0 +1,25 @@
+Entidad: Iniciativa
+
+Campos principales:
+- id_iniciativa
+- titulo
+- descripcion
+- fecha_creacion
+- estado (activa/resuelta)
+
+Propósito:
+Almacenar las propuestas o problemas reportados por la comunidad para que puedan ser 
+visualizados en el panel principal de la plataforma.
+
+
+Entidad: Firma_Apoyo
+
+Campos principales:
+- id_firma
+- id_iniciativa (llave foránea)
+- id_usuario
+- fecha_apoyo
+
+Propósito:
+Registrar los respaldos que los ciudadanos dan a una iniciativa específica, permitiendo 
+contar cuántas personas apoyan una causa sin duplicar votos.
