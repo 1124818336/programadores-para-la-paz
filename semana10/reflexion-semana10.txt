@@ -1,0 +1,9 @@
+Las metodologías ágiles permiten que los procesos de participación ciudadana se organicen 
+de forma estructurada pero flexible; al usar un backlog, todos los miembros saben qué es 
+prioritario para generar valor constante sin abrumarse. Por otro lado, integrar herramientas
+de automatización como n8n ayuda a reducir el trabajo manual, permitiendo que la comunidad se 
+enfoque en solucionar problemas en lugar de administrar datos de forma repetitiva. Canales
+como Telegram complementan este ecosistema perfectamente, ya que actúan como un medio de 
+comunicación directo y accesible. Así, al conectar una plataforma de reportes con alertas automáticas
+seguras, se logra una coordinación inmediata, transparente y colaborativa que fortalece el empoderamiento 
+y la acción comunitaria.

@@ -1,0 +1,6 @@
+Flujo de Automatización Comunitaria (n8n + Telegram)
+
+- Evento que activa el flujo: Se recibe una petición Webhook en n8n generada cada vez que un usuario guarda un nuevo formulario de reporte en el sistema.
+- Acción: El nodo de Telegram en n8n envía un mensaje a un grupo privado de coordinadores comunitarios.
+- Mensaje que se enviaría a Telegram: "⚠️ Nuevo reporte ciudadano recibido. Categoría: [Categoría]. Por favor, revisar el panel de administración para asignar el caso."
+- Información que NO debe enviarse por seguridad: Nombres, apellidos, número de cédula, teléfono celular, dirección exacta de residencia del ciudadano o contraseñas. Solo se envían datos del problema reportado, no de quien lo reporta.

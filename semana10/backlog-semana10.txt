@@ -1,0 +1,6 @@
+Backlog del Proyecto de Veeduría Comunitaria (Ordenado por prioridad)
+
+1. (Alta) Como ciudadano, quiero registrar una incidencia comunitaria (ej. daño en vía pública) para reportarlo al comité.
+2. (Alta) Como coordinador, quiero recibir una alerta automática en Telegram cuando haya un nuevo reporte para gestionarlo rápidamente.
+3. (Media) Como ciudadano, quiero ver un listado de las incidencias activas en mi barrio para estar informado de su estado.
+4. (Baja) Como miembro del equipo, quiero generar un reporte mensual en PDF con las incidencias resueltas para llevar trazabilidad.
