@@ -1,0 +1,15 @@
+Entidad: Causa
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+Propósito: Almacenar la información principal de la iniciativa comunitaria que busca respaldo, sirviendo como el eje central sobre el cual los ciudadanos interactuarán.
+
+Entidad: Apoyo
+Campos principales:
+- id
+- causa_id
+- nombre
+- fecha
+Propósito: Registrar las adhesiones de los ciudadanos a una causa específica (vinculada a través de causa_id). Esto permite contabilizar el nivel de participación y generar la evidencia necesaria para el documento PDF, sin requerir datos invasivos.

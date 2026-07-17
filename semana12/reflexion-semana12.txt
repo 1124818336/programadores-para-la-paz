@@ -1,0 +1,11 @@
+Durante este curso he aprendido que la tecnología, cuando se diseña con un enfoque 
+social, es un poderoso catalizador para la participación ciudadana y la organización 
+comunitaria. Comprender cómo se conectan el backend, la base de datos y la interfaz 
+gráfica permite construir soluciones reales, como el sistema "Petición en 3 Clics", 
+que empoderan a los ciudadanos para organizarse y hacer escuchar sus demandas de 
+forma estructurada (por ejemplo, automatizando la creación de PDFs formales). Además, 
+el uso de herramientas como n8n y Telegram optimiza el tiempo de los líderes comunitarios 
+mediante notificaciones instantáneas. Finalmente, el aprendizaje más valioso es la 
+responsabilidad ética en el desarrollo: una plataforma comunitaria exitosa debe proteger 
+la privacidad, minimizando la recopilación de datos sensibles para garantizar un entorno 
+digital seguro y confiable para todos.
